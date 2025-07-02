@@ -86,4 +86,5 @@ The chatbot uses **TF-IDF vectorization** and **cosine similarity** from the `sc
 4. Type `bye` to exit the conversation.
 
 **OUTPUT**
+![Image](https://github.com/user-attachments/assets/b11241f7-c1b0-407e-8f28-a192fcc0e650)
 
